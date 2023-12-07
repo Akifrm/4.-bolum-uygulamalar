@@ -1,0 +1,16 @@
+.yesilarka {
+    background-color: aquamarine;
+    color: darkolivegreen;
+
+}
+
+table,
+tr,
+td {
+    border: 1px solid white;
+}
+
+th,
+td {
+    padding: 5px 75px;
+}

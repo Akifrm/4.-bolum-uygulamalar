@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.ilkuc {
+    padding: 15px;
+    border-color: darkslategray;
+    border-radius: 10px;
+}
+
+#container {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+#son {
+    margin-top: 20px;
+    padding: 15px;
+    border-color: darkslategray;
+    border-radius: 10px;
+}
+
+#submit {
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+    padding: 7.5px 30px;
+    border-radius: 50px;
+}
+
+#kvkk {
+    margin-top: 30px;
+}
